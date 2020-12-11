@@ -8,7 +8,7 @@
 
 ### Contato
 - Email: renan.m.galvao@gmail.com
-- LinkedIn: (Irei criar)
+- LinkedIn: https://www.linkedin.com/in/renan-galv%C3%A3o-582867201/
 
 ### Outras redes
 - CodePen:https://codepen.io/renangalvao
