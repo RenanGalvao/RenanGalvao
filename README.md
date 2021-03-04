@@ -9,6 +9,7 @@
 - LinkedIn: https://www.linkedin.com/in/renan-galv%C3%A3o-582867201/
 
 ### Outras redes
+- FreeCodeCamp: https://www.freecodecamp.org/renangalvao
 - CodePen: https://codepen.io/renangalvao/pens/public
 
 
